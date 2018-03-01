@@ -1,3 +1,7 @@
+//Bayan Berri-- B^2
+//SoftDev2 pd7
+//K02--Connect the Dots ...
+//2018-02-28
 var pic = document.getElementById("svg");
 var button=document.getElementsByTagName("button");
 var b= button[0]
